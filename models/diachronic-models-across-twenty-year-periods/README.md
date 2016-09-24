@@ -1,7 +1,7 @@
 
 # Word2Vec Models for Twenty-year Periods of 18C (ECCO, "Literature and Language")
 Creator: Ryan Heuser (heuser@stanford.edu | @quadrismegistus)<br/>
-License: GNU
+License: Creative Commons (CC BY-SA) <https://creativecommons.org/licenses/by-sa/4.0/>
 
 =======
 
